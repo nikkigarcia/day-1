@@ -1,7 +1,7 @@
 .nav{
     height: 50px;
     width: 100%;
-    background-color: aqua;
+    background-color: darkred;
 }
 
 .h50{
@@ -10,8 +10,26 @@
 .fltrght{
     float: right;
     display: inline-block;
+    padding-right: 10px;
 }
 h1{
-    color: aqua;
+    color: darkred;
     text-align: center;
+}
+
+.selfie{
+  width: 300px; 
+  padding-left: 40%; 
+}
+
+a{
+    color: black;
+    margin-top: 0 auto;
+}
+
+.center{
+    text-align: center;
+}
+ul{
+    display: block;
 }
